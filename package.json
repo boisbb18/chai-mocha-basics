@@ -1,0 +1,27 @@
+{
+  "name": "chai-mocha-basics",
+  "version": "1.0.0",
+  "description": "A basic chai mocha setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boisbb18/chai-mocha-basics.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai"
+  ],
+  "author": "Bois",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boisbb18/chai-mocha-basics/issues"
+  },
+  "homepage": "https://github.com/boisbb18/chai-mocha-basics#readme",
+  "dependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
